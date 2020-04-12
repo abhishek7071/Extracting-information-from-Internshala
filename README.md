@@ -1,4 +1,4 @@
-# Website-Scraping-
+# Extracting details of internships from Internshala Website.
 
 In this project I have used python to scrap website. I have taken Internshala website and scraped it extracting name of internship, company, location, start date, stipend, duration and deadline of different Computer Science Internships offered at Internshala.
 
